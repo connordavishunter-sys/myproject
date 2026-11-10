@@ -1,1 +1,2 @@
 # myproject
+a example project
